@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861409466182",
+    "project_id": "rfid-91212",
+    "storage_bucket": "rfid-91212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861409466182:android:8373f583144e7e2ede3747",
+        "android_client_info": {
+          "package_name": "com.example.student_attendance_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiFie1cGVf2E_2TTi50RBfgDCo2qjVU_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
